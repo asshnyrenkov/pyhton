@@ -1,0 +1,11 @@
+.section {
+  height: 100%;
+  width: 150px;
+  background-color: black;
+  border: 5px;
+  margin-top: 50%;
+}
+.section .class-one {
+  height: 50px;
+  width: 50;
+}
